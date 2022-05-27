@@ -27,7 +27,8 @@
     "noEmit": true
   },
   "include": [
-    "src/**/*"
+    "src/**/*",
+    "src/pages/*"
   ],
   "exclude": [
     "node_modules"
